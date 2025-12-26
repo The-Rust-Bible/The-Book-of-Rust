@@ -1,69 +1,70 @@
 Old Testament
-    Genesis
-    Exodus
-    Leviticus
-    Numbers
-    Deuteronomy
-    Joshua
-    Judges
-    Ruth
-    1 Samuel
-    2 Samuel
-    1 Kings
-    2 Kings
-    1 Chronicles
-    2 Chronicles
-    Ezra
-    Nehemiah
-    Esther
-    Job
-    Psalms
-    Proverbs
-    Ecclesiastes
-    Song of Solomon
-    Isaiah
-    Jeremiah
-    Lamentations
-    Ezekiel
-    Daniel
-    Hosea
-    Joel
-    Amos
-    Obadiah
-    Jonah
-    Micah
-    Nahum
-    Habakkuk
-    Zephaniah
-    Haggai
-    Zechariah
-    Malachi
+1.0 Genesis
+1.0 Exodus
+2.0 Leviticus
+3.0 Numbers
+4.0 Deuteronomy
+5.0 Joshua
+6.0 Judges
+7.0 Ruth
+8.0 1 Samuel
+9.0 2 Samuel
+10.0 1 Kings
+11.0 2 Kings
+12.0 1 Chronicles
+13.0 2 Chronicles
+14.0 Ezra
+15.0 Nehemiah
+16.0 Esther
+17.0 Job
+18.0 Psalms
+19.0 Proverbs
+20.0 Ecclesiastes
+21.0 Song of Solomon
+22.0 Isaiah
+23.0 Jeremiah
+24.0 Lamentations
+25.0 Ezekiel
+26.0 Daniel
+27.0 Hosea
+28.0 Joel
+29.0 Amos
+30.0 Obadiah
+31.0 Jonah
+32.0 Micah
+33.0 Nahum
+34.0 Habakkuk
+35.0 Zephaniah
+36.0 Haggai
+37.0 Zechariah
+38.0 Malachi
 
 New Testament
-    Matthew
-    Mark
-    Luke
-    John
-    Acts
-    Romans
-    1 Corinthians
-    2 Corinthians
-    Galatians
-    Ephesians
-    Philippians
-    Colossians
-    1 Thessalonians
-    2 Thessalonians
-    1 Timothy
-    2 Timothy
-    Titus
-    Philemon
-    Hebrews
-    James
-    1 Peter
-    2 Peter
-    1 John
-    2 John
-    3 John
-    Jude
-    Revelation
+
+1.0 Matthew
+2.0 Mark
+3.0 Luke
+4.0 John
+5.0 Acts
+6.0 Romans
+7.0 1 Corinthians
+8.0 2 Corinthians
+9.0 Galatians
+10.0 Ephesians
+11.0 Philippians
+12.0 Colossians
+13.0 1 Thessalonians
+14.0 2 Thessalonians
+15.0 1 Timothy
+16.0 2 Timothy
+17.0 Titus
+18.0 Philemon
+19.0 Hebrews
+20.0 James
+21.0 1 Peter
+22.0 2 Peter
+23.0 1 John
+24.0 2 John
+25.0 3 John
+26.0 Jude
+27.0 Revelation
