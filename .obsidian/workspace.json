@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d627dcbcf38fc3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genesis of Rust.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis of Rust"
-            }
-          },
-          {
             "id": "409fc1b76b43fbea",
             "type": "leaf",
             "state": {
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Genesis of Rust.md",
+                "file": "Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Genesis of Rust"
+              "title": "Backlinks for Notes"
             }
           },
           {
@@ -127,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Genesis of Rust.md",
+                "file": "Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Genesis of Rust"
+              "title": "Outgoing links from Notes"
             }
           },
           {
@@ -170,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Genesis of Rust.md",
+                "file": "Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Genesis of Rust"
+              "title": "Outline of Notes"
             }
           }
         ]
@@ -197,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5d627dcbcf38fc3a",
+  "active": "409fc1b76b43fbea",
   "lastOpenFiles": [
+    "Genesis of Rust.md",
     "Books/New Testament/Romans.md",
     "Books/New Testament/John.md",
     "Books/New Testament/Acts.md",
@@ -224,7 +211,6 @@
     "Books/Old Testament/Song of Solomon.md",
     "Books/Old Testament/Isaiah.md",
     "Books/Old Testament/Ecclesiastes.md",
-    "Books/Old Testament/Proverbs.md",
     "Books/New Testament",
     "Books/Old Testament",
     "Books",
