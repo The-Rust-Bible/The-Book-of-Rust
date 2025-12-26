@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "8acbb0e092c9a31b",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b36611e7b57ed2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d627dcbcf38fc3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Genesis of Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesis of Rust"
+            }
+          },
+          {
+            "id": "409fc1b76b43fbea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f5245ccb1a6aa2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e61d0db3583521f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bf689b9550f761a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "309801f6982839cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "55d2ea2e66065f5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d80d784d3510c70",
+    "type": "split",
+    "children": [
+      {
+        "id": "38c0ad0fd340d7cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce4eba45ac61136",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Genesis of Rust.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Genesis of Rust"
+            }
+          },
+          {
+            "id": "8da32a739f5e7703",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Genesis of Rust.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Genesis of Rust"
+            }
+          },
+          {
+            "id": "38832784941087c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "79a04b4e41ad4dd6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c744b46fefee8818",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Genesis of Rust.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Genesis of Rust"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5d627dcbcf38fc3a",
+  "lastOpenFiles": [
+    "Books/New Testament/Romans.md",
+    "Books/New Testament/John.md",
+    "Books/New Testament/Acts.md",
+    "Books/New Testament/Luke.md",
+    "Books/Old Testament/Malachi.md",
+    "Books/New Testament/Mark.md",
+    "Books/Old Testament/Haggai.md",
+    "Books/Old Testament/Zechariah.md",
+    "Books/New Testament/Matthew.md",
+    "Books/Old Testament/Zephaniah.md",
+    "Books/Old Testament/Nahum.md",
+    "Books/Old Testament/Habakkuk.md",
+    "Books/Old Testament/Jonah.md",
+    "Books/Old Testament/Micah.md",
+    "Books/Old Testament/Joel.md",
+    "Books/Old Testament/Obadiah.md",
+    "Books/Old Testament/Amos.md",
+    "Books/Old Testament/Ezekiel.md",
+    "Books/Old Testament/Hosea.md",
+    "Books/Old Testament/Daniel.md",
+    "Books/Old Testament/Lamentations.md",
+    "Books/Old Testament/Jeremiah.md",
+    "Books/Old Testament/Song of Solomon.md",
+    "Books/Old Testament/Isaiah.md",
+    "Books/Old Testament/Ecclesiastes.md",
+    "Books/Old Testament/Proverbs.md",
+    "Books/New Testament",
+    "Books/Old Testament",
+    "Books",
+    "Books.txt",
+    "Books/temp.py"
+  ]
+}

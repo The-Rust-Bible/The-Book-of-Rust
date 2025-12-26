@@ -1,0 +1,1 @@
+In Chapter 6 of the Genesis of Rust, rewrite so that C/C++ is the snake tricking people into using memory unsafe code. The unsafe code is the sin and the malicious users are the demons.
